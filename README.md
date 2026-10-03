@@ -7,7 +7,7 @@ The OSI Model is a conceptual framework used to understand how data travels acro
 By breaking networking into layers, devices and protocols can communicate using a common structure, making networks
 easier to design, troubleshoot, and understand.
 
-When data is sent from one device to another, it travels down the OSI layers one the sender's device, across the network, and then up the OSI layers on the receiver's device.
+When data is sent from one device to another, it travels down the OSI layers on the sender's device, across the network, and then up the OSI layers on the receiver's device.
 
 **The Seven Layers**
 
