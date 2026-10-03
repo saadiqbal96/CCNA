@@ -11,19 +11,19 @@ When data is sent from one device to another, it travels down the OSI layers one
 
 **The Seven Layers**
 
-7. Application.
+Application [7]
 
-6. Presentation.
+Presentation [6]
 
-5. Session.
+Session [5]
 
-4. Transport.
+Transport [4]
 
-3. Network.
+Network [3]
 
-2. Data-Link.
+Data-Link [2]
 
-1. Physical.
+Physical [1]
 
 A common way to remember the layers from bottom to top is:
 
